@@ -1,0 +1,12 @@
+//TODO 
+
+implement clique tree data structure, set of factors + graph
+
+implement variable elimination; given a set of factors and an ordering of elimintation compute the joint distribution
+
+
+implement it in such a way so that it can be used for the creation of clique tree creation algorithm.
+
+
+
+
